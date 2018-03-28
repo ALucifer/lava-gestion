@@ -1,0 +1,23 @@
+version: "3"
+services:
+  db:
+    image: mariadb
+    restart: always
+    volumes:
+      - /usr/local/var/mysql/sutekinabox:/var/lib/mysql
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+  php:
+    build: Docker
+    image: webforce/php:7.2-fpm
+    volumes:
+      - .:/var/www/sutekinabox
+  nginx:
+    image: nginx
+    volumes:
+      - ./nginx/nginx.conf:/etc/nginx/conf.d/local.dev.conf
+      - .:/var/www/sutekinabox
+    ports:
+      - "8080:80"
+    environment:
+      - NGINX_PORT=80
