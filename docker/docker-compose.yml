@@ -3,21 +3,26 @@ services:
   db:
     image: mariadb
     restart: always
+    ports:
+      - "3307:3306"
     volumes:
-      - /usr/local/var/mysql/sutekinabox:/var/lib/mysql
+      - ./.db:/var/lib/mysql
     environment:
       MYSQL_ROOT_PASSWORD: root
   php:
     build: Docker
     image: webforce/php:7.2-fpm
+    ports:
+      - "81:81"
     volumes:
       - .:/var/www/sutekinabox
+    command: php -S 0.0.0.0:81 -t /var/www/sutekinabox/public
   nginx:
     image: nginx
     volumes:
-      - ./nginx/nginx.conf:/etc/nginx/conf.d/local.dev.conf
+      - ./Docker/nginx/nginx.conf:/etc/nginx/conf.d/local.dev.conf
       - .:/var/www/sutekinabox
     ports:
-      - "8080:80"
+      - "80:80"
     environment:
       - NGINX_PORT=80
