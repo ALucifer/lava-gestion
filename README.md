@@ -8,4 +8,7 @@ Documentation:
   - Techniques => permet de voir la documentation technique du projet
   
 Environnement:
-  - Docker compose
+  - [Docker compose](docker/)
+
+Workflox:
+  - [Schema](workflow/)
