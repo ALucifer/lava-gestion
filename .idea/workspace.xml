@@ -3,64 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="73e30747-6ae1-4ecc-b79e-510d93879707" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/slider/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slider/.idea/slidertest.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slider/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slider/css/print/paper.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slider/css/print/pdf.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slider/css/reveal.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slider/css/reveal.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slider/css/theme/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slider/css/theme/beige.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slider/css/theme/black.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slider/css/theme/blood.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slider/css/theme/league.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slider/css/theme/moon.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slider/css/theme/night.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slider/css/theme/serif.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slider/css/theme/simple.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slider/css/theme/sky.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slider/css/theme/solarized.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slider/css/theme/source/beige.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slider/css/theme/source/black.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slider/css/theme/source/blood.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slider/css/theme/source/league.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slider/css/theme/source/moon.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slider/css/theme/source/night.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slider/css/theme/source/serif.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slider/css/theme/source/simple.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slider/css/theme/source/sky.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slider/css/theme/source/solarized.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slider/css/theme/source/white.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slider/css/theme/template/mixins.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slider/css/theme/template/settings.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slider/css/theme/template/theme.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slider/css/theme/white.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slider/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slider/js/reveal.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slider/lib/css/zenburn.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slider/lib/font/league-gothic/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slider/lib/font/league-gothic/league-gothic.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slider/lib/font/league-gothic/league-gothic.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slider/lib/font/league-gothic/league-gothic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slider/lib/font/league-gothic/league-gothic.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slider/lib/font/source-sans-pro/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slider/lib/font/source-sans-pro/source-sans-pro-italic.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slider/lib/font/source-sans-pro/source-sans-pro-italic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slider/lib/font/source-sans-pro/source-sans-pro-italic.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slider/lib/font/source-sans-pro/source-sans-pro-regular.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slider/lib/font/source-sans-pro/source-sans-pro-regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slider/lib/font/source-sans-pro/source-sans-pro-regular.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slider/lib/font/source-sans-pro/source-sans-pro-semibold.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slider/lib/font/source-sans-pro/source-sans-pro-semibold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slider/lib/font/source-sans-pro/source-sans-pro-semibold.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slider/lib/font/source-sans-pro/source-sans-pro-semibolditalic.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slider/lib/font/source-sans-pro/source-sans-pro-semibolditalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slider/lib/font/source-sans-pro/source-sans-pro-semibolditalic.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slider/lib/font/source-sans-pro/source-sans-pro.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slider/lib/js/classList.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slider/lib/js/head.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slider/lib/js/html5shiv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/slider" beforeDir="false" afterPath="$PROJECT_DIR$/slider" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -74,8 +17,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/slider/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="61" column="33" selection-start-line="61" selection-start-column="33" selection-end-line="61" selection-end-column="33" />
+            <state relative-caret-position="1105">
+              <caret line="94" column="51" lean-forward="true" selection-start-line="94" selection-start-column="51" selection-end-line="94" selection-end-column="51" />
             </state>
           </provider>
         </entry>
@@ -196,29 +139,30 @@
       <workItem from="1523274705025" duration="472000" />
       <workItem from="1523883678813" duration="96000" />
       <workItem from="1523884791686" duration="3889000" />
-      <workItem from="1523890059910" duration="43000" />
+      <workItem from="1523890059910" duration="985000" />
+      <workItem from="1523950865330" duration="262000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11911000" />
+    <option name="totallyTimeSpent" value="13115000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="3" y="23" width="1277" height="693" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18785425" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1902834" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="NativeScript" order="8" />
@@ -236,6 +180,13 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/slider/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1472">
+          <caret line="64" column="29" lean-forward="true" selection-start-line="64" selection-start-column="29" selection-end-line="64" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/slider/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1495">
@@ -329,20 +280,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/slider/Gruntfile.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3169">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
+        <state relative-caret-position="-3169" />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/merise/lava.jpg">
-      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/slider/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="61" column="33" selection-start-line="61" selection-start-column="33" selection-end-line="61" selection-end-column="33" />
+        <state relative-caret-position="1105">
+          <caret line="94" column="51" lean-forward="true" selection-start-line="94" selection-start-column="51" selection-end-line="94" selection-end-column="51" />
         </state>
       </provider>
     </entry>
